@@ -2,7 +2,7 @@
 
 Defines the HiddenAssociationDistribution, HiddenAssociationSampler, HiddenAssociationAccumulatorFactory,
 HiddenAssociationAccumulator, HiddenAssociationEstimator, and the HiddenAssociationDataEncoder classes for use with
-DMLearn.
+DMixLearn.
 
 Consider a set of value V = {v_1,v_2,...,v_K} with data type T. Let the given density be discrete probability density
 over the values in V,

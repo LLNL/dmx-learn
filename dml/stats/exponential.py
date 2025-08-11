@@ -1,7 +1,7 @@
 """Create, estimate, and sample from an exponential distribution with scale beta.
 
 Defines the ExponentialDistribution, ExponentialSampler, ExponentialAccumulatorFactory, ExponentialAccumulator,
-ExponentialEstimator, and the ExponentialDataEncoder classes for use with DMLearn.
+ExponentialEstimator, and the ExponentialDataEncoder classes for use with DMixLearn.
 """
 
 from typing import Optional, Tuple, List, Union, Dict, Any

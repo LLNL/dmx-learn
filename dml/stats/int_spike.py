@@ -3,7 +3,7 @@
 
 Defines the SpikeAndSlabDistribution, SpikeAndSlabSampler, SpikeAndSlabAccumulatorFactory,
 SpikeAndSlabAccumulator, SpikeAndSlabEstimator, and the SpikeAndSlabDataEncoder classes for use
-with DMLearn.
+with DMixLearn.
 
 """
 

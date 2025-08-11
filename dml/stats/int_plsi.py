@@ -1,7 +1,7 @@
 """Create, estimate, and sample from an integer PLSI model.
 
 Defines the IntegerPLSIDistribution, IntegerPLSISampler, IntegerPLSIAccumulatorFactory, IntegerPLSIAccumulator,
-IntegerPLSIEstimator, and the IntegerPLSIDataEncoder classes for use with DMLearn.
+IntegerPLSIEstimator, and the IntegerPLSIDataEncoder classes for use with DMixLearn.
 
 Consider an Integer PLSI model for a corpus of documents with S states, V word values, and D authors (doc_ids).
 

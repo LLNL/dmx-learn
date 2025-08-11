@@ -1,6 +1,6 @@
-"""Functions for estimating and validating DMLearn models from observed data.
+"""Functions for estimating and validating DMixLearn models from observed data.
 
-Useful functions for estimating DMLearn 'SequenceEncodableProbabilityDistributions' from 'ParameterEstimator'
+Useful functions for estimating DMixLearn 'SequenceEncodableProbabilityDistributions' from 'ParameterEstimator'
 objects.
 
 """

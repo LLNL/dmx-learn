@@ -1,6 +1,6 @@
 """Dirichlet distribution: estimation, sampling, and sufficient statistics.
 
-This module defines the DirichletDistribution and related classes for use with DMLearn:
+This module defines the DirichletDistribution and related classes for use with DMixLearn:
 
 - DirichletDistribution
 - DirichletSampler

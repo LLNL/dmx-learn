@@ -1,7 +1,7 @@
 """Create, estimate, and sample from a univariate Gaussian mixture distribution.
 
 This module defines the GaussianMixtureDistribution, GaussianMixtureSampler, GaussianMixtureAccumulatorFactory,
-GaussianMixtureAccumulator, GaussianMixtureEstimator, and GaussianMixtureDataEncoder classes for use with DMLearn.
+GaussianMixtureAccumulator, GaussianMixtureEstimator, and GaussianMixtureDataEncoder classes for use with DMixLearn.
 
 The GaussianMixtureDistribution allows users to key the variance parameter across all components. This differs from
 MixtureDistribution([GaussianDistribution()]*K), as you cannot key the variance parameter while allowing for different

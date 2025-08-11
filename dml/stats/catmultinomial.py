@@ -1,7 +1,7 @@
 """"Create, estimate, and sample from a MultinomialDistribution.
 
 Defines the MultinomialDistribution, MultinomialSampler, MultinomialAccumulatorFactory, MultinomialAccumulator,
-MultinomialEstimator, and the MultinomialDataEncoder classes for use with DMLearn.
+MultinomialEstimator, and the MultinomialDataEncoder classes for use with DMixLearn.
 
 Let P_dist(V_k) be a distribution for a countable set of discrete observations of values V_k of type T. Denote
 

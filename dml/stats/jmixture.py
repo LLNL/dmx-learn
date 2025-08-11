@@ -1,7 +1,7 @@
 """Create, estimate, and sample from a Joint mixture distribution.
 
 Defines the JointMixtureDistribution, JointMixtureSampler, JointMixtureAccumulatorFactory, JointMixtureAccumulator,
-JointMixtureEstimator, and the JointMixtureDataEncoder classes for use with DMLearn.
+JointMixtureEstimator, and the JointMixtureDataEncoder classes for use with DMixLearn.
 
 Data type: Tuple[T0, T1].
 

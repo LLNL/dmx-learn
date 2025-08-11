@@ -1,7 +1,7 @@
 """Create, estimate, and sample from a mixture distribution with homogenous components.
 
 Defines the MixtureDistribution, MixtureSampler, MixtureAccumulatorFactory, MixtureAccumulator,
-MixtureEstimator, and the MixtureDataEncoder classes for use with DMLearn.
+MixtureEstimator, and the MixtureDataEncoder classes for use with DMixLearn.
 
 MixtureDistribution is defined by the density of the form,
 

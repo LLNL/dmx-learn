@@ -3,7 +3,7 @@ covariance matrix 'covar' (n by n).
 
 Defines the MultivariateGaussianDistribution, MultivariateGaussianSampler, MultivariateGaussianAccumulatorFactory,
 MultivariateGaussianAccumulator, MultivariateGaussianEstimator, and the MultivariateGaussianDataEncoder classes for use
-with DMLearn.
+with DMixLearn.
 
 """
 import numpy as np

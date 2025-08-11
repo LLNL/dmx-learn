@@ -3,7 +3,7 @@ length distribution for the lengths of the iid sequences can be specified as a d
 non-negative integer values.
 
 Defines the SequenceDistribution, SequenceSampler, SequenceAccumulatorFactory, SequenceAccumulator,
-SequenceEstimator, and the SequenceDataEncoder classes for use with DMLearn.
+SequenceEstimator, and the SequenceDataEncoder classes for use with DMixLearn.
 
 Data type (T): Assume the sequence distribution has a base distribution 'dist' compatible with data type T and length
 distribution compatible with positive integers len_dist with respective densities P_dist() and P_len(). The density

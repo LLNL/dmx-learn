@@ -2,7 +2,7 @@
 
 Defines the ConditionalDistribution, ConditionalDistributionSampler, ConditionalDistributionAccumulatorFactory,
 ConditionalDistributionAccumulator, ConditionalDistributionEstimator, and the ConditionalDistributionDataEncoder
-classes for use with DMLearn.
+classes for use with DMixLearn.
 
 Data type: (Tuple[T0, T1]): The ConditionalDistribution is given by density,
     P(X0,X1) = P_cond(X1|X0)*P_given(X0).

@@ -2,7 +2,7 @@
 
 Defines the MarkovChainDistribution, MarkovChainDistributionSampler, MarkovChainDistributionAccumulatorFactory,
 MarkovChainDistributionAccumulator, MarkovChainDistributionEstimator, and the MarkovChainDistributionDataEncoder
-classes for use with DMLearn.
+classes for use with DMixLearn.
 
 The assumed data type for the stats-space is T.
 

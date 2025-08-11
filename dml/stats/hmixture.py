@@ -3,7 +3,7 @@ sequence mixture distribution with L topics shared across all K components.
 
 Defines the HierarchicalMixtureDistribution, HierarchicalMixtureSampler, HierarchicalMixtureEstimatorAccumulatorFactory,
 HierarchicalMixtureEstimatorAccumulator, HierarchicalMixtureEstimator, and the HierarchicalMixtureDataEncoder classes
-for use with DMLearn.
+for use with DMixLearn.
 
 Data type: Sequence[T], where 'T' is the type of the topic distributions.
 

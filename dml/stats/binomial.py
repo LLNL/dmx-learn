@@ -1,7 +1,7 @@
 """Create, estimate, and sample from the binomial distribution.
 
 Defines the BinomialDistribution, BinomialSampler, BinomialAccumulatorFactory, BinomialAccumulator, BinomialEstimator,
-and the BinomialDataEncoder classes for use with DMLearn.
+and the BinomialDataEncoder classes for use with DMixLearn.
 
 Data type: int.
 """

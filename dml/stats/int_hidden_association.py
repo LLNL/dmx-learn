@@ -2,7 +2,7 @@
 
 Defines the IntegerHiddenAssociationDistribution, IntegerHiddenAssociationSampler,
 IntegerHiddenAssociationAccumulatorFactory, IntegerHiddenAssociationAccumulator, IntegerHiddenAssociationEstimator, and
-the IntegerHiddenAssociationDataEncoder classes for use with DMLearn.
+the IntegerHiddenAssociationDataEncoder classes for use with DMixLearn.
 
 The k-rank variant of SparseMarkovAssociation.
 

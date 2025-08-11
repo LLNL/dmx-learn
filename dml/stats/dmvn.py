@@ -2,7 +2,7 @@
 
 Defines the DiagonalGaussianDistribution, DiagonalGaussianSampler, DiagonalGaussianAccumulatorFactory,
 DiagonalGaussianAccumulator, DiagonalGaussianEstimator, and the DiagonalGaussianDataEncoder classes for use with
-DMLearn.
+DMixLearn.
 
 The log-density of an ``n``-dimensional diagonal Gaussian observation :math:`x = (x_1, x_2, ..., x_n)` with mean
 :math:`\mu = (m_1, m_2, ..., m_n)` and diagonal covariance matrix :math:`\mathrm{covar} = \mathrm{diag}(s^2_1, ..., s^2_n)` is:

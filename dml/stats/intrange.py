@@ -2,7 +2,7 @@
 
 Defines the IntegerCategoricalDistribution, IntegerCategoricalSampler, IntegerCategoricalAccumulatorFactory,
 IntegerCategoricalAccumulator, IntegerCategoricalEstimator, and the IntegerCategoricalDataEncoder classes for use
-with DMLearn.
+with DMixLearn.
 
 Data type (int): The integer categorical distribution is defined through summary statistics min_val (int)
 and vector of probabilities p_vec (np.ndarray[float]) that sum to 1.0. The range of values is given by

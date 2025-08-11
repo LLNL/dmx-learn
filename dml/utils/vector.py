@@ -1,4 +1,4 @@
-"""Vector contains functions useful for estimation and evaluation of DMLearn classes."""
+"""Vector contains functions useful for estimation and evaluation of DMixLearn classes."""
 from typing import List, Union, Tuple, Iterable, Optional, Sequence, SupportsIndex, overload
 
 import numpy as np

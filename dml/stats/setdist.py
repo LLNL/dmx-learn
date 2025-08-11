@@ -2,7 +2,7 @@
 
 Defines the BernoulliSetDistribution, BernoulliSetDistributionSampler, BernoulliSetDistributionAccumulatorFactory,
 BernoulliSetDistributionAccumulator, BernoulliSetDistributionEstimator, and the BernoulliSetDistributionDataEncoder
-classes for use with DMLearn.
+classes for use with DMixLearn.
 
 
 Let S = {s_1,s_2,....,s_N} be the state space of elements of any type. Let x be a random set of variable length,
