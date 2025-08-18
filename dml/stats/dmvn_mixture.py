@@ -1,6 +1,6 @@
 """Create, estimate, and sample from a mixture distribution with homogeneous components.
 
-Defines DiagonalGaussianMixtureDistribution and related classes for use with DMLearn.
+Defines DiagonalGaussianMixtureDistribution and related classes for use with DMixLearn.
 
 MixtureEstimator([DiagonalGaussianEstimator()], keys=(None, 'comps')) keys both means and variances.
 DiagonalGaussianEstimator(tied=True) sets the covariance of each mixture component to be the same for each mixture component.

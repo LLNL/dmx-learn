@@ -1,9 +1,9 @@
 """Create, estimate, and sample from an integer Chow Liu Tree distribution.
 
 Defines the ICLTreeDistribution, ICLTreeSampler, ICLTreeAccumulatorFactory, ICLTreeAccumulator, ICLTreeEstimator, and
-the ICLTreeDataEncoder classes for use with DMLearn.
+the ICLTreeDataEncoder classes for use with DMixLearn.
 
-DMLearn supports Chow & Liu trees [1] through the ICLTree (Integer Chow Liu Tree) class of objects. ICLTrees model
+DMixLearn supports Chow & Liu trees [1] through the ICLTree (Integer Chow Liu Tree) class of objects. ICLTrees model
 non-Markov conditional dependence for fixed-length sequences of integers with the likelihood functions of the form
 
     P(x_1, x_2,..,x_n) = P(x_i1) P(x_{i_2}|x_{j_2})*...*P(x_{i_n}|x_{j_n}),

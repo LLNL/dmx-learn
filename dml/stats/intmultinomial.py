@@ -2,7 +2,7 @@
 
 Defines the IntegerMultinomialDistribution, IntegerMultinomialSampler, IntegerMultinomialAccumulatorFactory,
 IntegerMultinomialAccumulator, IntegerMultinomialEstimator, and the IntegerMultinomialDataEncoder classes for use with
-DMLearn.
+DMixLearn.
 
 Data type: Sequence[Tuple[int, float]]: Consider an observation of a multinomial consisting of integer-category
 counts of the form x = (x_0,..,x_K), where K is the number of integers in the range [min_val, max_val]. The

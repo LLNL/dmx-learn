@@ -2,7 +2,7 @@
 
 Defines the IntegerBernoulliEditDistribution, IntegerBernoulliEditSampler, IntegerBernoulliEditAccumulatorFactory,
 IntegerBernoulliEditAccumulator, IntegerBernoulliEditEstimator, and the IntegerBernoulliEditDataEncoder classes for use
-with DMLearn.
+with DMixLearn.
 
 Assume S = {0,1,2,...N-1} is a set of integers. The Bernoulli edit set distribution considers transitions between two
 random subsets. That is, let X1 and X2 be a random subsets of unique integers from S, s.t. X1 and X2 have

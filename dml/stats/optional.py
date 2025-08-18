@@ -1,7 +1,7 @@
 """Create, estimate, and sample from an Optional distribution.
 
 Defines the OptionalDistribution, OptionalSampler, OptionalAccumulatorFactory, OptionalAccumulator,
-OptionalEstimator, and the OptionalDataEncoder classes for use with DMLearn.
+OptionalEstimator, and the OptionalDataEncoder classes for use with DMixLearn.
 
 This distribution assigns a probability (p) to data being missing. With probability (1-p) the data is assumed to come
 from a base distribution set by the user.

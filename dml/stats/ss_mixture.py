@@ -2,7 +2,7 @@
 
 Defines the SemiSupervisedMixtureDistribution, SemiSupervisedMixtureSampler, SemiSupervisedMixtureAccumulatorFactory,
 SemiSupervisedMixtureEstimatorAccumulator, SemiSupervisedMixtureEstimator, and the SemiSupervisedMixtureDataEncoder
-classes for use with DMLearn.
+classes for use with DMixLearn.
 
 Data type (Tuple[T, Optional[Sequence[Tuple[int, float]]]): T is the data type of the mixture components. The optional
 Sequence of tuples contain labels for the observations coming from the component (0,1,2,...num_components-1) and an

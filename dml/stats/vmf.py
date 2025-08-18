@@ -1,7 +1,7 @@
 """"Create, estimate, and sample from a von Mises-Fisher distribution.
 
 Defines the VonMisesFisherDistribution, VonMisesFisherSampler, VonMisesFisherAccumulatorFactory,
-VonMisesFisherAccumulator, VonMisesFisherEstimator, and the VonMisesFisherDataEncoder classes for use with DMLearn.
+VonMisesFisherAccumulator, VonMisesFisherEstimator, and the VonMisesFisherDataEncoder classes for use with DMixLearn.
 
 Data type: Union[Sequence[float], np.ndarray].
 

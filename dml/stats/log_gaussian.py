@@ -1,7 +1,7 @@
 """Evaluate, estimate, and sample from a log-gaussian distribution with location mu and scale sigma2.
 
 Defines the LogGaussianDistribution, LogGaussianSampler, LogGaussianAccumulatorFactory, LogGaussianAccumulator,
-LogGaussianEstimator, and the LogGaussianDataEncoder classes for use with DMLearn.
+LogGaussianEstimator, and the LogGaussianDataEncoder classes for use with DMixLearn.
 
 """
 import numpy as np

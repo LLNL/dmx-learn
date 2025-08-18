@@ -1,7 +1,7 @@
 """Create, estimate, and sample from a Poisson distribution with rate lam > 0.0.
 
 Defines the PoissonDistribution, PoissonSampler, PoissonAccumulatorFactory, PoissonAccumulator,
-PoissonEstimator, and the PoissonDataEncoder classes for use with DMLearn.
+PoissonEstimator, and the PoissonDataEncoder classes for use with DMixLearn.
 
 Data type (int): The Poisson distribution with rate lam, has log-density
 

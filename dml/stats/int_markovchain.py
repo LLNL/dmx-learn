@@ -2,7 +2,7 @@
 
 Defines the IntegerMarkovChainDistribution, IntegerMarkovChainSampler, IntegerMarkovChainAccumulatorFactory,
 IntegerMarkovChainAccumulator, IntegerMarkovChainEstimator, and the IntegerMarkovChainDataEncoder classes for use with
-DMLearn.
+DMixLearn.
 
 The data type: Sequence[int].
 

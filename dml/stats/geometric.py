@@ -1,7 +1,7 @@
 """Create, estimate, and sample from a geometric distribution with probability of success p.
 
 Defines the GeometricDistribution, GeometricSampler, GeometricAccumulatorFactory, GeometricAccumulator,
-GeometricEstimator, and the GeometricDataEncoder classes for use with DMLearn.
+GeometricEstimator, and the GeometricDataEncoder classes for use with DMixLearn.
 
 Data type (int): The geometric distribution with probability of success p, has density
 

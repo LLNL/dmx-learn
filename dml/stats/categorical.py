@@ -1,7 +1,7 @@
 """Create, estimate, and sample from a Categorical distribution.
 
 Defines the CategoricalDistribution, CategoricalSampler, CategoricalAccumulatorFactory, CategoricalAccumulator,
-CategoricalEstimator, and the CategoricalDataEncoder classes for use with DMLearn.
+CategoricalEstimator, and the CategoricalDataEncoder classes for use with DMixLearn.
 
 """
 import numpy as np

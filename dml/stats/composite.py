@@ -1,7 +1,7 @@
 """Create, estimate, and sample from a Composite distribution.
 
 Defines the CompositeDistribution, CompositeSampler, CompositeAccumulatorFactory, CompositeAccumulator,
-CompositeEstimator, and the CompositeDataEncoder classes for use with DMLearn.
+CompositeEstimator, and the CompositeDataEncoder classes for use with DMixLearn.
 
 Data type: Tuple[T_0, ... T_{n-1}]: The CompositeDistribution of size 'n' is a joint distribution for
 independent observations of 'n'-tupled data. Each component 'k' of the CompositeDistribution has data type T_k that

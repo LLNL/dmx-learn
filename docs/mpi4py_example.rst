@@ -1,7 +1,7 @@
 MPI4PY Estimation Example
 ======================================
 
-This guide explains how to run `estimation_example.py` to fit statistical models in parallel using `mpi4py` and the DMLearn package. Each step below includes the relevant Python code snippet. The file is found in `dml/mpi4py/examples`
+This guide explains how to run `estimation_example.py` to fit statistical models in parallel using `mpi4py` and the DMixLearn package. Each step below includes the relevant Python code snippet. The file is found in `dml/mpi4py/examples`
 
 Running the Script
 ------------------
@@ -34,7 +34,7 @@ Step 1: Import Libraries and Set Up MPI
 
 Step 2: Simulate Data on the Master Node
 ----------------------------------------
-Note that the data simulation is only performed on the master node (rank 0). Other nodes will receive `None` for data. We use DMLearn's DistributionSampler object to sample from the two state composite mixture distribution.
+Note that the data simulation is only performed on the master node (rank 0). Other nodes will receive `None` for data. We use DMixLearn's DistributionSampler object to sample from the two state composite mixture distribution.
 
 .. code-block:: python
 

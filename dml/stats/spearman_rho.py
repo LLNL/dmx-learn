@@ -2,7 +2,7 @@
 
 Defines the SpearmanRankingDistribution, SpearmanRankingSampler, SpearmanRankingAccumulatorFactory,
 SpearmanRankingAccumulator, SpearmanRankingEstimator, and the SpearmanRankingDataEncoder
-classes for use with DMLearn.
+classes for use with DMixLearn.
 
 Data type: List[int] (Component-wise rank of K dimensional observation vector)
 

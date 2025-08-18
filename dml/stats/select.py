@@ -1,7 +1,7 @@
 """Create, estimate, and sample from a select distribution.
 
 Defines the SelectDistribution, SelectSampler, SelectAccumulatorFactory, SelectAccumulator,
-SelectEstimator, and the SelectDataEncoder classes for use with DMLearn.
+SelectEstimator, and the SelectDataEncoder classes for use with DMixLearn.
 
 The SelectDistribution samples from a set of SequenceEncodableProbabilityDistribution objects. The a choice function
 maps an observation a distribution from the set of distributions.

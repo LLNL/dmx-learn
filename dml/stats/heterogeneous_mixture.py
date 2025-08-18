@@ -2,7 +2,7 @@
 
 Defines the HeterogeneousMixtureDistribution, HeterogeneousMixtureSampler, HeterogeneousMixtureAccumulatorFactory,
 HeterogeneousMixtureAccumulator, HeterogeneousMixtureEstimator, and the HeterogeneousMixtureDataEncoder classes for use
-with DMLearn.
+with DMixLearn.
 
 A heterogeneous mixture distribution with data type ``T`` is defined by the density:
 

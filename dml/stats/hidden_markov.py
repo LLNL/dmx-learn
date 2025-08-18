@@ -2,7 +2,7 @@
 
 Defines the HierarchicalMixtureDistribution, HierarchicalMixtureSampler, HierarchicalMixtureEstimatorAccumulatorFactory,
 HierarchicalMixtureEstimatorAccumulator, HierarchicalMixtureEstimator, and the HierarchicalMixtureDataEncoder classes
-for use with DMLearn.
+for use with DMixLearn.
 
 Data type: Sequence[T] (determined by emission distributions).
 

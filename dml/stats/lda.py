@@ -2,7 +2,7 @@
 
 
 Defines the LDADistribution, LDASampler, LDAAccumulatorFactory, LDAEstimatorAccumulator, LDAEstimator, and the
-LDADataEncoder classes for use with DMLearn.
+LDADataEncoder classes for use with DMixLearn.
 
 LDA is a generative model for producing draws from multinomial distribution. The process for generating a document of
 length N from an LDA with L topics is given as follows:

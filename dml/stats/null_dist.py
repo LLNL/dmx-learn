@@ -1,7 +1,7 @@
 """Create, estimate, and sample from a null distribution.
 
 Defines the NullDistribution, NullSampler, NullAccumulatorFactory, NullAccumulator,
-NullEstimator, and the NullDataEncoder classes for use with DMLearn.
+NullEstimator, and the NullDataEncoder classes for use with DMixLearn.
 
 The NullDistribution object and its related classes are space filling objects meant for consistency in type hints.
 

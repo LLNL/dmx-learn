@@ -1,7 +1,7 @@
 """Create, estimate, and sample from a gamma distribution with shape k and scale theta.
 
 Defines the GammaDistribution, GammaSampler, GammaAccumulatorFactory, GammaAccumulator, GammaEstimator,
-and the GammaDataEncoder classes for use with DMLearn.
+and the GammaDataEncoder classes for use with DMixLearn.
 """
 
 import numpy as np

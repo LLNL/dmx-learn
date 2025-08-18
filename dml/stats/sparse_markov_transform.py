@@ -2,7 +2,7 @@
 
 Defines the SparseMarkovAssociationDistribution, SparseMarkovAssociationSampler,
 SparseMarkovAssociationAccumulatorFactory, SparseMarkovAssociationAccumulator, SparseMarkovAssociationEstimator, and
-the SparseMarkovAssociationDataEncoder classes for use with DMLearn.
+the SparseMarkovAssociationDataEncoder classes for use with DMixLearn.
 
 Data type:  Tuple[List[Tuple[int, float]], List[Tuple[int, float]]].
 

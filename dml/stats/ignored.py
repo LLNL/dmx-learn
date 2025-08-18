@@ -1,7 +1,7 @@
 """Create, estimate, and sample from an IgnoredDistribution.
 
 Defines the IgnoredDistribution, IgnoredSampler, IgnoredAccumulatorFactory, IgnoredAccumulator, IgnoredEstimator,
-and the IgnoredDataEncoder classes for use with DMLearn.
+and the IgnoredDataEncoder classes for use with DMixLearn.
 
 Ignored distribution is simply a distribution that is ignored in estimation and treated as fixed.
 

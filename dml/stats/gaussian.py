@@ -1,7 +1,7 @@
 """Evaluate, estimate, and sample from a Gaussian distribution with mean mu and variance sigma2.
 
 Defines the GaussianDistribution, GaussianSampler, GaussianAccumulatorFactory, GaussianAccumulator,
-GaussianEstimator, and the GaussianDataEncoder classes for use with DMLearn.
+GaussianEstimator, and the GaussianDataEncoder classes for use with DMixLearn.
 
 Data type: float
 """
