@@ -1,7 +1,7 @@
 Abstract Classes
 ==================================
-DMixLearn captures most distributions in the exponential family. A detailed walkthrough on defining a custom distribution class can be found in :ref:`user_defined`. 
-We list the abstract classes that exist in DMixLearn below.
+dmx-learn captures most distributions in the exponential family. A detailed walkthrough on defining a custom distribution class can be found in :ref:`user_defined`. 
+We list the abstract classes that exist in dmx-learn below.
 
 ProbabilityDistribution
 -----------------------------
