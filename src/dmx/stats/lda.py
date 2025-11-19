@@ -404,7 +404,7 @@ class LDAEstimatorAccumulatorFactory(StatisticAccumulatorFactory):
                  prev_alpha: Optional[np.ndarray] = None) -> None:
         self.factories = factories
         self.dim = dim
-        self.keys = keys if keys is None else (None, None)
+        self.keys = keys if keys is not None else (None, None)
         self.name = name 
         self.prev_alpha = prev_alpha
 
